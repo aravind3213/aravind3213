@@ -1,0 +1,131 @@
+Hello Team,
+
+As the associated alerts got self healed we are moving this case to closure.
+
+Thanks,
+NOC
+
+IS_WindowsSystemAdmin_dl@multicare.org,ISDataNetworkDL@multicare.org
+
+support@synclear.com 
+
+TIG matrix:
+
+it@restaurantmagic.com,RestaurantMagicTeam@tig.com
+
+
+
+Next Steps
+We will assign an engineer to investigate this issue and will keep you posted on progress further
+
+
+
+Other components impacted: N/A 1st Level Actions taken by NOC: None
+Next steps by NOC: Assign incident to GreenPages Ops team to review and update customer.
+Actions Required by GreenPages Ops team: GreenPages OPS team to troubleshoot and fix the issue.
+
+Best Regards,
+GreenPages NOC 
+
+
+Hello Team,
+
+Not in inventory and ungrouped device
+
+Hence we are closing this case
+
+Regards,
+NOC 
+
+
+
+As per client update, we have brought the Primary-DAG-IP "192.168.105.29" online and Current host server is
+"BOS-VEXCHANGE".
+
+At any point in time, either the "Primary-DAG-IP" OR "Secondary-DAG-IP" will be online.
+
+Since we brought Primary-DAG-IP online, Secondary-DAG-IP will be offline. Please ignore alerts on Secondary-DAG-IP.
+
+Tracking Ticket: #25573837,T20181204.0048
+
+
+
+Hello Team,
+
+We observed that the servers are UP and verified all essential automated services are running fine.
+No critical event logs found.
+
+Hence we are moving this ticket to closed state.
+
+Thanks,
+Noc
+
+
+
+1st Level Actions taken by Command Center : 
+----------
+1.Observed that the server got rebooted and verified all essential automated services are running fine.
+2. No critical event logs found.
+3. Hence closing this ticket.
+-----------
+
+Next Steps : None
+
+
+This host is not on OpsRamp.
+
+
+Ignore PAN TRAPS
+
+Alerts on Un Managed Group, can be suppressed
+
+
+Tracking:
+
+
+Hello Team,
+
+we are tracking issue with xxxxxxxx.
+
+Hence we are closing this case
+
+Regards,
+NOC
+
+
+NETENRICH Matrix:
+
+bhavya.tirupathi@netenrich.com,siva.mandadi@netenrich.com,devops@netenrich.com
+
+
+Asuri care:
+
+Hi NOC,
+
+Please don't process any Azure related alerts for this client "AssuriCare".
+
+
+
+Best Regards,
+Greenpages NOC
+
+It’s known issue for UDT WFS, actually we don’t need to process any ticket for same- refer PM ticket 1752016.
+
+
+
+
+Hello Team,
+
+As few of the associated alerts haven't got recovery,please check and let us
+
+know if we can provide any additional information or if you have any further questions.
+
+Thanks Noc.
+
+
+
+FRT and validation remove cheyalli dump lo for service delivery call
+
+
+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
+
